@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/Button1_2.png</file>
+        <file>image/Button1_3.png</file>
+        <file>image/Button1_4.png</file>
+        <file>image/Button1_5.png</file>
+        <file>image/Button1_6.png</file>
+        <file>image/Button2_1.png</file>
+        <file>image/Button2_2.png</file>
+        <file>image/Button2_3.png</file>
+        <file>image/Button2_4.png</file>
+        <file>image/Button2_5.png</file>
+        <file>image/Button2_6.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>image/logo.png</file>
+        <file>image/Landing.png</file>
+        <file>image/back.png</file>
+        <file>image/realback.png</file>
+        <file>image/set.png</file>
+        <file>image/setselect.png</file>
+        <file>image/left.png</file>
+        <file>image/right.png</file>
+        <file>image/off.png</file>
+        <file>image/on.png</file>
+        <file>image/离线.png</file>
+        <file>image/良.png</file>
+        <file>image/轻度污染.png</file>
+        <file>image/严重污染.png</file>
+        <file>image/优.png</file>
+        <file>image/在线.png</file>
+        <file>image/中度污染.png</file>
+        <file>image/重度污染.png</file>
+        <file>image/mul_Parameters.png</file>
+    </qresource>
+</RCC>
